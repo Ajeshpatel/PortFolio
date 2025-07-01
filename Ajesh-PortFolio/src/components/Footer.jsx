@@ -34,7 +34,7 @@ const Footer = () => {
             <FaLinkedin className="text-xl" />
           </a>
           <a
-            href="tel:+919876543210"
+            href="tel:+917987040027"
             className="text-sm hover:text-gray-300 transition"
           >
             📞 +91 79870 40027
