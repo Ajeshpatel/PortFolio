@@ -29,8 +29,8 @@ const projects = [
     title: "Job-Portal",
     description: "MERN stack app to manage tasks with responsive UI.",
     images: [job1, job2, job3, job4],
-    liveLink: "",
-    codeLink: "",
+    liveLink: "https://jobportal-8myv.onrender.com",
+    codeLink: "https://github.com/Ajeshpatel/Job-portal",
   },
   {
     title: "Task Management System",

@@ -27,7 +27,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row gap-4 justify-center md:justify-start">
           <a
             href="/Ajesh_resume.pdf" 
-            download
+            download = "Ajesh-resume"
             className="bg-blue-600 text-white px-6 py-2 rounded-full hover:bg-blue-700 transition font-medium"
           >
             Download Resume
